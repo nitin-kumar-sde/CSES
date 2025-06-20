@@ -37,13 +37,10 @@ This collection is not just about solving problems — it’s about **learning t
 ## 🙌 Contributing
 If you’d like to contribute:
 
-Fork the repository
-
-Create a new branch
-
-Add your solutions or improvements
-
-Submit a pull request
+- Fork the repository
+- Create a new branch
+- Add your solutions or improvements
+- Submit a pull request
 
 All quality contributions are welcome!
 
